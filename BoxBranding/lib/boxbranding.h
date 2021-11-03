@@ -19,7 +19,6 @@ char *_getImageDistro();
 char *_getBoxType();
 char *_getMachineBuild();
 char *_getImageVersion();
-char *_getImageBuild();
 char *_getImageDevBuild();
 char *_getImageType();
 char *_getFeedsUrl();
